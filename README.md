@@ -1,7 +1,7 @@
 # spring-boot-kafka
 ###### Project spring boot and kfka publisher
 ## Tools needed
-###### Java version : 1.8.0.261
+###### Java version minimum: 1.8.0.261
 ###### Docker and Docker compose
 
 ##  How to run the projects with command line
